@@ -1,0 +1,4 @@
+How to deploy Project using Github :
+
+https://vercel.com/   --> Platform used to deploy website.
+
